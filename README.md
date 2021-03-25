@@ -1,4 +1,4 @@
-# File Folder System　檔案資料夾系統
+# File Folder System 檔案資料夾系統
 
 ### ［查看中文說明文件］ (https://github.com/steveyiyo/file_folder/blob/master/READMD_zh.md)
 
